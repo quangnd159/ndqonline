@@ -1,13 +1,4 @@
-baseurl = "https://ndqonline.netlify.com"
+baseURL = "https://ndqonline.netlify.com"
+languageCode = "en-us"
 title = "Nguyen Dang Quang"
 theme = "noteworthy"
-
-[Params]
-    mainSections = ["post"]
-    intro = true
-    opengraph = true
-    shareTwitter = true
-    dateFormat = "Mon, Jan 2, 2006"
-
-[Permalinks]
-    post = "/:filename/"
