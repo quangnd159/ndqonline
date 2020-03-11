@@ -19,7 +19,7 @@ theme = "hermit"
 
   [[menu.main]]
     name = "Essays"
-    url = "posts/"
+    url = "essays/"
     weight = 10
 
   [[menu.main]]
