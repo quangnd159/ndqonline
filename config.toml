@@ -24,6 +24,6 @@ theme = "hermit"
 
   [[menu.main]]
     name = "Lan man"
-    url = "heck/"
+    url = "lanman/"
     weight = 20
 
