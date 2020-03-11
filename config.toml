@@ -1,4 +1,29 @@
 baseURL = "https://nguyendangquang.online"
 languageCode = "en-us"
-title = "Nguyen Dang Quang"
-theme = "noteworthy"
+title = "Nguyễn Đăng Quang"
+theme = "hermit"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  themeColor = "#494f5c"
+  customCSS = ["css/style.css"]
+
+  homeSubtitle = "Ghi chép linh tinh"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [menu]
+
+  [[menu.main]]
+    name = "Essays"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Lan man"
+    url = "heck/"
+    weight = 20
+
