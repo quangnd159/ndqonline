@@ -88,14 +88,14 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /home/"
+    logoText     = "$ ndq.online"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
-    # logoCursorDisabled = false
+    logoCursorDisabled = false
     # Set to a valid CSS color to change the cursor in the logo.
     # logoCursorColor    = "#67a2c9"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
-    # logoCursorAnimate  = "2s"
+    logoCursorAnimate  = "0s"
 
 [languages]
   [languages.en]
@@ -104,12 +104,33 @@ disableHugoGeneratorInject = false
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
 
   [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+    identifier = "hoc"
+    name       = "Học"
+    url        = "hoc/"
+    weight     = 10
+
+  [[menu.main]]
+    identifier = "essays"
+    name       = "Essays"
+    url        = "essays/"
+    weight     = 20
+
+  [[menu.main]]
+    identifier = "minhtriet"
+    name       = "Minh triết"
+    url        = "minhtriet/"
+    weight     = 30
+
+  [[menu.main]]
+    identifier = "ielts"
+    name       = "IELTS"
+    url        = "ielts/"
+    weight     = 40
+
+  [[menu.main]]
+    identifier = "vevoi"
+    name       = "Vẽ vời"
+    url        = "vevoi/"
+    weight     = 50
