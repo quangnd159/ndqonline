@@ -23,4 +23,5 @@ Viết tắt là NVSR. Để dễ nhớ, dùng cụm Not Very Sad Romance.
 ## Ví dụ chi tiết
 
 Đề bài
-`The table below gives information about changes in modes of travel in England between 1985 and 2000.`
+
+> The table below gives information about changes in modes of travel in England between 1985 and 2000.
