@@ -1,6 +1,6 @@
-+++
-title = "Vẽ vời"
-+++
+---
+title: 'Vẽ vời'
+---
 
 {{< figure src="/img/vevoi/anhquan.jpeg" >}}
 {{< figure src="/img/vevoi/anhtuyet.jpeg" >}}
