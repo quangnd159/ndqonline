@@ -107,30 +107,30 @@ disableHugoGeneratorInject = false
 
   [[menu.main]]
     identifier = "hoc"
-    name       = "Học"
+    name       = "học"
     url        = "hoc/"
     weight     = 10
 
   [[menu.main]]
     identifier = "essays"
-    name       = "Essays"
+    name       = "essays"
     url        = "essays/"
     weight     = 20
 
   [[menu.main]]
     identifier = "minhtriet"
-    name       = "Minh triết"
+    name       = "minh triết"
     url        = "minhtriet/"
     weight     = 30
 
   [[menu.main]]
     identifier = "ielts"
-    name       = "IELTS"
+    name       = "ielts"
     url        = "ielts/"
     weight     = 40
 
   [[menu.main]]
     identifier = "vevoi"
-    name       = "Vẽ vời"
+    name       = "vẽ vời"
     url        = "vevoi/"
     weight     = 50
