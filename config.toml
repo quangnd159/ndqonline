@@ -99,7 +99,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Just a guy"
+    subtitle  = "Ghi chép của Quang"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -118,9 +118,9 @@ disableHugoGeneratorInject = false
     weight     = 20
 
   [[menu.main]]
-    identifier = "minhtriet"
-    name       = "minh triết"
-    url        = "minhtriet/"
+    identifier = "quang"
+    name       = "quang"
+    url        = "quang/"
     weight     = 30
 
   [[menu.main]]
