@@ -9,7 +9,7 @@ Thiếu phần tổng quan sẽ bị trừ điểm khá nặng. Nên viết 2 c�
 
 ## Cấu trúc
 
-> It is clear that [nhận định 1]. Also worth notice is that [nhận định 2].
+> It is clear that (nhận định 1). Also worth notice is that (nhận định 2).
 
 "Also worth notice is that" là một cách chuyển ý. Tuỳ vào ngữ cảnh có thể dùng cụm khác, ví dụ như "however" hay "on the other hand".
 
