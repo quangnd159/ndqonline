@@ -28,6 +28,7 @@ Uống cà phê, trà, tập thể dục, hoặc đi bộ.
 Đọc sách trên Kindle và đánh dấu trong lúc đọc. Nếu nảy ra ý tưởng quan trọng, chép trực tiếp vào Kindle.
 Đọc trực tiếp trên trang web và đánh dấu bằng tiện ích Readwise.
 Đọc trên Evernote và ghi chép trên Bear.
+Đọc trên Pocket để đồng bộ qua Readwise.
 
 ## Quản lý kiến thức
 
@@ -55,6 +56,10 @@ Viết bài hoàn chỉnh để xuất bản.
 #### Anki
 
 Học từ vựng tiếng Anh và tiếng Hoa mỗi ngày.
+
+### Quy tắc sử dụng Youtube
+
+Khi xem Youtube để học một thứ gì đó, bắt buộc phải ghi chép. Đã không ghi chép thì không xem, vì chỉ lãng phí thời gian. Quy tắc này áp dụng với phim tài liệu và các trang tương tự Youtube.
 
 ## Nội dung và hình thức
 

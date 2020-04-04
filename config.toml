@@ -112,9 +112,9 @@ disableHugoGeneratorInject = false
     weight     = 10
 
   [[menu.main]]
-    identifier = "essays"
-    name       = "essays"
-    url        = "essays/"
+    identifier = "essay"
+    name       = "essay"
+    url        = "essay/"
     weight     = 20
 
   [[menu.main]]
