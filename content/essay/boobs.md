@@ -2,6 +2,7 @@
 title: 'On My Biggest Boobs'
 date: 2020-03-24T22:15:18+07:00
 draft: false
+tags: [mistake, introspection, lesson]
 ---
 
 Yeah, you read that right. And if you were taken aback, it means you may not have fully explored all the meanings of boobs (they’re not just men’s hopes and dreams.) Today you'll learn a boob means a stupid mistake, it also means a stupid person, and heck it can be a verb and mean to make a stupid mistake. These meanings even came before a woman’s breast: in fact, they date back to the 16th century.

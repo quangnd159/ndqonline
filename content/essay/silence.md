@@ -2,6 +2,7 @@
 title: 'The Importance of Being Silent'
 date: 2020-04-04T09:22:25+07:00
 draft: false
+tags: [silence, love, life]
 ---
 
 we should all learn to be silent
