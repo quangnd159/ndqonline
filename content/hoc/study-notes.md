@@ -2,6 +2,7 @@
 title: 'Ghi chép từ các khoá học'
 date: 2020-04-27T11:38:48+07:00
 draft: false
+tags: [học, ghi chép, notability]
 ---
 
 Tôi dùng app Notability trên iPad để ghi chép bài giảng. Ai ghé thăm trang có thể tuỳ ý tải những ghi chép này. Tuy nhiên, tham gia khoá học vẫn là cách tốt nhất để khai thác nó, vì mỗi người có một cách học và nhu cầu học khác nhau.

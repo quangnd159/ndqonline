@@ -2,6 +2,7 @@
 title: 'Minh triết'
 date: 2020-04-04T09:21:36+07:00
 draft: false
+tags: [minh triết]
 ---
 
 Khi bạn có niềm tin mãnh liệt vào một điều gì đó, hãy nhớ rằng điều trái ngược với niềm tin ấy cũng có thể đúng. Thế giới không chỉ có trắng đen, đúng sai, phải trái.
