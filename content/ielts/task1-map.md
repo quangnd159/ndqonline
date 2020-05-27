@@ -1,5 +1,5 @@
 ---
-title: 'Task: Bài maps'
+title: 'Task 1: Bài maps'
 date: 2020-05-27T13:04:10+07:00
 draft: false
 ---
@@ -80,18 +80,18 @@ _It is clear that the village became more densely populated. Major additions inc
 - primary school: more buildings added; shops knocked down
 - farmland cleared
 
-  _In 1930, large patches of land in Stokeford were farmland. A road ran north-south through the middle of the village, intersecting a river the River Stoke that flowed from north-east to south-west. Near the center, there was a primary school, and across the road were a post office and a couple of shops. Houses could be found in the proximity of the school. Down the road, to the south-east of the school, stood a large house in a huge area of gardens._
+_In 1930, large patches of land in Stokeford were farmland. A road ran north-south through the middle of the village, intersecting a river the River Stoke that flowed from north-east to south-west. Near the center, there was a primary school, and across the road were a post office and a couple of shops. Houses could be found in the proximity of the school. Down the road, to the south-east of the school, stood a large house in a huge area of gardens._
 
-  _By 2010, the main road had branched off at some places, and many more houses had been built along these roads. The gardens’ area shrank by half, while the large house had been extended and converted into a retirement home. More buildings had been added to the school. Meanwhile, the shops had been knocked down and the farmland was all cleared, partly to accommodate the changes._
+_By 2010, the main road had branched off at some places, and many more houses had been built along these roads. The gardens’ area shrank by half, while the large house had been extended and converted into a retirement home. More buildings had been added to the school. Meanwhile, the shops had been knocked down and the farmland was all cleared, partly to accommodate the changes._
 
-  Như vậy ta có bài hoàn chỉnh như sau:
+Như vậy ta có bài hoàn chỉnh như sau:
 
-  _The maps illustrate the changes that took place at Stokeford village between 1930 and 2010._
+_The maps illustrate the changes that took place at Stokeford village between 1930 and 2010._
 
-  _It is clear that the village became more densely populated. Major additions included a retirement home and a large number of private houses._
+_It is clear that the village became more densely populated. Major additions included a retirement home and a large number of private houses._
 
-  _In 1930, large patches of land in Stokeford were farmland. A road ran north-south through the middle of the village, intersecting a river the River Stoke that flowed from north-east to south-west. Near the center, there was a primary school, and across the road were a post office and a couple of shops. Houses could be found in the proximity of the school. Down the road, to the south-east of the school, stood a large house in a huge area of gardens._
+_In 1930, large patches of land in Stokeford were farmland. A road ran north-south through the middle of the village, intersecting a river the River Stoke that flowed from north-east to south-west. Near the center, there was a primary school, and across the road were a post office and a couple of shops. Houses could be found in the proximity of the school. Down the road, to the south-east of the school, stood a large house in a huge area of gardens._
 
-  _By 2010, the main road had branched off at some places, and many more houses had been built along these roads. The gardens’ area shrank by half, while the large house had been extended and converted into a retirement home. More buildings had been added to the school. Meanwhile, the shops had been knocked down and the farmland was all cleared, partly to accommodate the changes._
+_By 2010, the main road had branched off at some places, and many more houses had been built along these roads. The gardens’ area shrank by half, while the large house had been extended and converted into a retirement home. More buildings had been added to the school. Meanwhile, the shops had been knocked down and the farmland was all cleared, partly to accommodate the changes._
 
-  (190 chữ)
+(190 chữ)
