@@ -2,6 +2,8 @@
 title: 'Task 1: Bài process'
 date: 2020-05-27T12:21:42+07:00
 draft: false
+weight: 70
+tags: [ielts]
 ---
 
 Process diagram là biểu đồ minh hoạ một quá trình.

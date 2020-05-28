@@ -2,7 +2,7 @@
 title: 'Task 1: Cách viết đoạn chi tiết (tiếp)'
 date: 2020-05-19T08:08:47+07:00
 draft: false
-weight: 40
+weight: 50
 tags: [ielts]
 ---
 

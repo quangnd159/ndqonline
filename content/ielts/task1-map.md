@@ -2,6 +2,8 @@
 title: 'Task 1: Bài maps'
 date: 2020-05-27T13:04:10+07:00
 draft: false
+weight: 80
+tags: [ielts]
 ---
 
 Maps có thể là bản đồ của một ngôi làng, trung tâm thành phố, trường học, hoặc bản vẽ của một tầng toà nhà.
