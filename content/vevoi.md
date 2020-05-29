@@ -19,6 +19,6 @@ title: 'Vẽ vời'
 {{< figure src="/img/vevoi/phuonglinh.jpeg" >}}
 {{< figure src="/img/vevoi/spider-ben.jpeg" >}}
 {{< figure src="/img/vevoi/thanhbinh.jpeg" >}}
-{{< figure src="/img/vevoi/thiendi.jpeg" >}}
+{{< figure src="/img/vevoi/thiendi.jpg" >}}
 {{< figure src="/img/vevoi/thong.jpeg" >}}
 {{< figure src="/img/vevoi/trungthu.jpeg" >}}
