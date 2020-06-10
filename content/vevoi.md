@@ -2,6 +2,7 @@
 title: 'Vẽ vời'
 ---
 
+{{< figure src="/img/vevoi/thutrinh.jpeg" >}}
 {{< figure src="/img/vevoi/anhquan.jpeg" >}}
 {{< figure src="/img/vevoi/anhtuyet.jpeg" >}}
 {{< figure src="/img/vevoi/bella.jpeg" >}}
