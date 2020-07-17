@@ -33,5 +33,3 @@ Sau khi đọc sách xong, tôi dùng Readwise để đọc lại toàn bộ cá
 ## Ôn lại
 
 Hàng ngày Readwise sẽ chọn ra một lượng trích đoạn nhất định từ những cuốn sách đã đọc để tôi xem lại. Lúc này, tôi có thể gắn thêm tag, viết thêm ghi chú, hoặc biến trích đoạn thành câu hỏi. Đây là một tính năng rất hay của Readwise. Nó có thuật toán ôn tập giãn cách (spaced repetition) giúp ghi nhớ thông tin tốt hơn. Nếu có trích đoạn nào tâm đắc, tôi viết lại qua ứng dụng ghi chú Bear.
-
-Cập nhật (15/7/2020): Tôi chuyển sang dùng Notion thay vì Bear.
